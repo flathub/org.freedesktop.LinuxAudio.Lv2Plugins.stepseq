@@ -1,3 +1,5 @@
 {
+    "end-of-life": "This plugin package is now part of...",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.x42Plugins",
     "skip-icons-check": true
 }
